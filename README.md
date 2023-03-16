@@ -1,8 +1,8 @@
 # Chicago Rideshare Shared Trip Authorization Prediction
-This project is focused on predicting the likelihood of shared trip authorizations for rideshare services in Chicago.
+This project is focused on predicting the likelihood of shared trip authorizations for rideshare services in the city of Chicago.
 
 # Introduction
-This project aims to predict if a trip in the city of Chicago will be shared or not using the Transportation Network Providers Trips dataset provided by the City of Chicago. The dataset includes information about all trips taken from 2018 until January 2023.
+This project aims to predict if a trip in the city of Chicago will be shared or not, using the Transportation Network Providers Trips dataset provided by the City of Chicago. The dataset includes information about all trips taken from November 2018 until January 2023.
 
 # Project Overview
 The prediction model is based on five factors: the starting hour of the trip, the district the trip is starting from, the distance, the target district, and the cost of a typical trip based on the aforementioned factors. The dataset is imbalanced, with a significantly lower percentage of shared trips. To avoid bias in the prediction model, we selected an equal number of shared and not_shared trips to create a balanced dataset.
