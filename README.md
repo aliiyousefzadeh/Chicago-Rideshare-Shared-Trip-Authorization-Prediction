@@ -11,6 +11,7 @@ The prediction model is based on five factors:<br>
 3- The distance<br>
 4- The target district<br>
 5- The cost of a typical trip based on the aforementioned factors.<br>
+
 The dataset is imbalanced, with a significantly lower percentage of shared trips. To avoid bias in the prediction model, we selected an equal number of shared and not_shared trips to create a balanced dataset.
 
 We used Python and various libraries including pandas, numpy, and scikit-learn to preprocess the data, perform feature engineering, and train and test machine learning models. We experimented with six different architectures and evaluated their performance using cross-validation. We then chose the best model based on its accuracy and other metrics.
