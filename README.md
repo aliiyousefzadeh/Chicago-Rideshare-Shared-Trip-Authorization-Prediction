@@ -4,9 +4,12 @@ This project is focused on predicting the likelihood of shared trip authorizatio
 # Introduction
 This project aims to predict if a trip in the city of Chicago will be shared or not, using the Transportation Network Providers Trips dataset provided by the City of Chicago. The dataset includes information about all trips taken from November 2018 until January 2023.
 
-# Data Inspect
-To get a better inspect of the data, here is a chart to show the ratio of shared and non-shared trips.<br>
-![Alt Text](https://github.com/aliiyousefzadeh/Chicago-Rideshare-Shared-Trip-Authorization-Prediction/blob/main/Shared_ratio.PNG?raw=true)
+# Data Inspection
+To get a better inspect of the data, here is a chart to show the ratio of shared and non-shared trips:<br>
+![Alt Text](https://github.com/aliiyousefzadeh/Chicago-Rideshare-Shared-Trip-Authorization-Prediction/blob/main/Shared_ratio.PNG?raw=true)<br>
+About 85% of the data is non-shared and the other is shared trips.
+
+
 
 # Project Overview
 The prediction model is based on five factors:<br>
