@@ -9,7 +9,7 @@ To get a better inspect of the data, here is a chart to show the ratio of shared
 ![Alt Text](https://github.com/aliiyousefzadeh/Chicago-Rideshare-Shared-Trip-Authorization-Prediction/blob/main/Shared_ratio_pie_chart.PNG?raw=true)<br>
 About 85% of the data is non-shared and the other is shared trips.<br>
 <br>
-The number of trips taken on each day is as follows:<br>
+The number of trips taken on each day is as follows:<br><br>
 ![Alt Text](https://github.com/aliiyousefzadeh/Chicago-Rideshare-Shared-Trip-Authorization-Prediction/blob/main/days_data.PNG?raw=true)<br>
 Friday and Saturday are the most favorite days for both shared and non-shared trips.<br>
 <br>
