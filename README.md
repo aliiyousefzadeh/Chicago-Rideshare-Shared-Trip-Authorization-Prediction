@@ -6,7 +6,7 @@ This project aims to predict if a trip in the city of Chicago will be shared or 
 
 # Data Inspect
 To get a better inspect of the data here is a chart to show the ratio of shared and non-shared trips.<br>
-![alt text](https://github.com/aliiyousefzadeh/Chicago-Rideshare-Shared-Trip-Authorization-Prediction/blob/main/shared_ratio.png?raw=true)
+![Alt Text](https://github.com/aliiyousefzadeh/Chicago-Rideshare-Shared-Trip-Authorization-Prediction/blob/main/shared_ratio.png?raw=true)
 
 # Project Overview
 The prediction model is based on five factors:<br>
