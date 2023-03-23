@@ -43,7 +43,7 @@ Afterward, the code selects the relevant features for the model and splits the d
 Then all the models are compiled and trained with the validation dataset and evaluated to find the best model which would be selected based on their loss function values.
 
 The Arcitecture of final model is follows:<br>
-![Alt Text](https://github.com/aliiyousefzadeh/Chicago-Rideshare-Shared-Trip-Authorization-Prediction/blob/main/hourly_trips.PNG?raw=true)<br>
+![Alt Text](https://github.com/aliiyousefzadeh/Chicago-Rideshare-Shared-Trip-Authorization-Prediction/blob/main/model.PNG?raw=true)<br>
 
 After selecting the final model, the model is trained using training set and evaluated with testing set.
 
