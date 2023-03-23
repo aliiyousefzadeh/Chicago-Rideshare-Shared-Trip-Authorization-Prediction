@@ -7,7 +7,15 @@ This project aims to predict if a trip in the city of Chicago will be shared or 
 # Data Inspection
 To get a better inspect of the data, here is a chart to show the ratio of shared and non-shared trips:<br>
 ![Alt Text](https://github.com/aliiyousefzadeh/Chicago-Rideshare-Shared-Trip-Authorization-Prediction/blob/main/Shared_ratio.PNG?raw=true)<br>
-About 85% of the data is non-shared and the other is shared trips.
+About 85% of the data is non-shared and the other is shared trips.<br>
+<br>
+The number of trips taken on each day is as follows:<br>
+![Alt Text](https://github.com/aliiyousefzadeh/Chicago-Rideshare-Shared-Trip-Authorization-Prediction/blob/main/days_data.PNG?raw=true)<br>
+Friday and Saturday are the most favorite days for both shared and non-shared trips.<br>
+<br>
+Also, to separate the trips into hours, the following chart shows us the trend of trips for each hour:<br>
+![Alt Text](https://github.com/aliiyousefzadeh/Chicago-Rideshare-Shared-Trip-Authorization-Prediction/blob/main/hourly_trips.PNG?raw=true)<br>
+The data highlights that 8 AM is the first peak hour, especially for shared trips, and then from 5 PM until 7 PM there is another peak hour for both types of trips. The favorite hour for shared trip is 5 PM, while for non-shared hour it is 6 PM.
 
 
 
