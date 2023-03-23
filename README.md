@@ -15,7 +15,8 @@ Friday and Saturday are the most favorite days for both shared and non-shared tr
 <br>
 Also, to separate the trips into hours, the following chart shows the trend of trips during the hours of a day:<br>
 ![Alt Text](https://github.com/aliiyousefzadeh/Chicago-Rideshare-Shared-Trip-Authorization-Prediction/blob/main/hourly_trips.PNG?raw=true)<br>
-The data highlights that 8 AM is the first peak hour, especially for shared trips, and then from 5 PM until 7 PM there is another peak hour for both types of trips. The favorite hour for shared trip is 5 PM, while for non-shared hour it is 6 PM.
+The data highlights that 8 AM is the first peak hour, especially for shared trips, and then from 5 PM until 7 PM there is another peak period for both types of trips.<br>
+The favorite hour for shared trip is 5 PM, while for non-shared hour it is 6 PM.
 
 
 
