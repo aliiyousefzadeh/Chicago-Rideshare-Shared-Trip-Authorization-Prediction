@@ -4,6 +4,10 @@ This project is focused on predicting the likelihood of shared trip authorizatio
 # Introduction
 This project aims to predict if a trip in the city of Chicago will be shared or not, using the Transportation Network Providers Trips dataset provided by the City of Chicago. The dataset includes information about all trips taken from November 2018 until January 2023.
 
+# Data Inspect
+To get a better inspect of the data here is a chart to show the ratio of shared and non-shared trips.
+![Alt Text](./path/to/shared ratio.png)
+
 # Project Overview
 The prediction model is based on five factors:<br>
 1- The starting hour of the trip<br>
@@ -11,6 +15,7 @@ The prediction model is based on five factors:<br>
 3- The distance<br>
 4- The target district<br>
 5- The cost of a typical trip based on the aforementioned factors.<br>
+6- The day of the week the trip is taken<br>
 
 The dataset is imbalanced, with a significantly lower percentage of shared trips. To avoid bias in the prediction model, we selected an equal number of shared and not_shared trips to create a balanced dataset.
 
