@@ -45,7 +45,7 @@ Then all the models are compiled and trained with the validation dataset and eva
 After selecting the final model, the model is trained using training set and evaluated with testing set.
 
 # Results
-Our best model achieved an accuracy of 89%, which is a significant improvement over the baseline accuracy of 50%. This indicates that our model is able to make relevantly accurate predictions on whether a trip will be shared or not. Considering only using 5 factors to see if a trip will be shared or not, we achieved a reasonable accuracy.
+Our best model achieved an accuracy of 89%, which is a significant improvement, with a loss of 0.29. This indicates that our model is able to make relevantly accurate predictions on whether a trip will be shared or not. Considering only using 5 factors to see if a trip will be shared or not, we achieved a reasonable accuracy.
 
 # Acknowledgment
 We would like to acknowledge the City of Chicago for providing the [Transportation Network Providers Trips dataset](https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Trips/m6dm-c72p) used in this project.
