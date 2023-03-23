@@ -51,4 +51,4 @@ Our best model achieved an accuracy of 89%, which is a significant improvement, 
 We would like to acknowledge the City of Chicago for providing the [Transportation Network Providers Trips dataset](https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Trips/m6dm-c72p) used in this project.
 
 # Future Improvements
-In the future, we plan to explore additional factors that could impact trip sharing, such as weather conditions and time of the year (like months and season). We also plan to investigate more advanced machine learning techniques to improve the accuracy of our prediction model.
+In the future, we plan to explore additional factors that could impact trip sharing, such as weather conditions and time of the year (like months and seasons). We also plan to investigate more advanced machine learning techniques to improve the accuracy of our prediction model.
